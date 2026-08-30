@@ -9,7 +9,7 @@ import {
   setCode,
   cloneBranch,
   getBranchName
-} from "./screeps-client";
+} from "./screeps-client.js";
 
 export { ScreepsConfig };
 
